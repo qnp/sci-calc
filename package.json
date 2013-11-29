@@ -27,7 +27,7 @@
   "scripts": {
     "test": "grunt nodeunit"
   },
-  "devDependencies": {
+  "dependencies": {
     "colors": "~0.6.2" 
   },
   "keywords": ["math", "calculator", "scientific", "command-line", "history", "variables", "functions"],
