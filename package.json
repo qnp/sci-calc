@@ -1,7 +1,7 @@
 {
   "name": "sci-calc",
   "description": "Command-line cientific calculator based on node REPL, with the possibility to declare functions and variables, and save them and load them. This command-line calculator possesses a permanent history.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/qnp/sci-calc",
   "author": {
     "name": "François Risoud",
@@ -28,7 +28,7 @@
     "test": "grunt nodeunit"
   },
   "dependencies": {
-    "colors": "~0.6.2" 
+    "colors": "~0.6.2"
   },
   "keywords": ["math", "calculator", "scientific", "command-line", "history", "variables", "functions"],
 	"preferGlobal": "true",
