@@ -30,5 +30,5 @@ Available commands:
 Feel free to contribute to this project
 
 ## License
-Copyright (c) 2013 François Risoud
+Copyright (c) 2015 François Risoud
 Licensed under the MIT license.
