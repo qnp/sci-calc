@@ -1,4 +1,4 @@
-# sci-calc [![Build Status](https://secure.travis-ci.org/francoisrisoud/sci-calc.png?branch=master)](http://travis-ci.org/francoisrisoud/sci-calc)
+# sci-calc
 
 Command-line cientific calculator based on node REPL, with the possibility to declare functions and variables, and save them and load them. This command-line calculator possesses a permanent history.
 
