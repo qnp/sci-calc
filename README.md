@@ -1,6 +1,6 @@
 # sci-calc
 
-Command-line cientific calculator based on node REPL, with the possibility to declare functions and variables, and save them and load them. This command-line calculator possesses a permanent history.
+Command-line scientific calculator based on node REPL, with the possibility to declare functions and variables, and save them and load them. This command-line calculator possesses a permanent history.
 
 ## Getting Started
 Install the module with: `npm install sci-calc`, then from the sci-calc package directory run: `npm link`
