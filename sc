@@ -4,7 +4,7 @@
  * sci-calc
  * https://github.com/qnp/sci-calc
  *
- * Copyright (c) 2013 François Risoud
+ * Copyright (c) 2017 François Risoud
  * Licensed under the MIT license.
  */
 

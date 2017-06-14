@@ -1,7 +1,7 @@
 {
   "name": "sci-calc",
   "description": "Command-line cientific calculator based on node REPL, with the possibility to declare functions and variables, and save them and load them. This command-line calculator possesses a permanent history.",
-  "version": "0.1.4",
+  "version": "1.0.0",
   "homepage": "https://github.com/qnp/sci-calc",
   "author": {
     "name": "François Risoud",
@@ -20,19 +20,26 @@
       "url": "https://github.com/qnp/sci-calc/blob/master/LICENSE-MIT"
     }
   ],
+  "licence": "MIT",
   "main": "lib/sci-calc",
   "engines": {
     "node": ">= 4.1.1"
   },
-  "scripts": {
-    "test": "grunt nodeunit"
-  },
+  "scripts": {},
   "dependencies": {
     "colors": "~0.6.2"
   },
-  "keywords": ["math", "calculator", "scientific", "command-line", "history", "variables", "functions"],
-	"preferGlobal": "true",
+  "keywords": [
+    "math",
+    "calculator",
+    "scientific",
+    "command-line",
+    "history",
+    "variables",
+    "functions"
+  ],
+  "preferGlobal": "true",
   "bin": {
-    "sc" : "lib/sci-calc.js"
+    "sc": "lib/sci-calc.js"
   }
 }
