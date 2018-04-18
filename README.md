@@ -42,5 +42,5 @@ Available commands:
 Feel free to contribute to this project
 
 ## License
-Copyright (c) 2017 François Risoud
+Copyright (c) 2018 François Risoud
 Licensed under the MIT license.
