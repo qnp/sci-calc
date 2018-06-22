@@ -45,6 +45,6 @@ Feel free to contribute to this project
 Copyright (c) 2018 François Risoud
 Licensed under the MIT license.
 
-# Todo
+# By the way
 
-Power operator `**` is now part of the ES6 spec and is implemented in recent node versions. It is no longer necessary to parse `x**n` and cast it into `pow(x, n)`.
+Power operator `**` is now part of the ES6 spec and is implemented in recent node versions. But to support older versions of node, `x**n` is parsed and cast it into `pow(x, n)`.
